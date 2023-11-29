@@ -6,7 +6,8 @@
 
 This program uses a algorithm such that it links two movie stars and finds thier shortest relation. 
 For Example : 
-```Name: Emma Watson
+```
+Name: Emma Watson
 Name: Jennifer Lawrence
 3 relations away.
 1: Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
